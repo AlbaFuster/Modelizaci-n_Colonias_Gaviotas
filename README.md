@@ -1,4 +1,4 @@
-# Modelizaci-n_Colonias_Gaviotas
+# Modelizacion_Colonias_Gaviotas
 En la asignatura de Especialización del Máster en Bioestadística, se ha asignado como tarea el análisis y elaboración de distintos modelos estadísticos relacionados con la gestión de colonias de gaviotas en España y Francia.
 
 Nuestro grupo, compuesto por Javier Martín-Pozuelo y Alba Fuster ha decidido plantear una serie de modelos lineales y aditivos generalizados desde dos perspectivas distintas la frecuentista y la bayesiana. 
